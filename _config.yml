@@ -1,0 +1,14 @@
+layout_spectrum: 0.9366373505908996
+typography_spectrum: 0.7131069207098335
+color:
+  brandStrength: 0.5272764798719436
+  lightness: 0.8284150194376707
+  saturation: 0.46601163572631776
+  rhythmicContrast: 0.2695463558193296
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Diamond Six
